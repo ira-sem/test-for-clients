@@ -1,7 +1,0 @@
-files:
-  - source: /*.csv
-    translation: /translationfiles/%two_letters_code%_%original_file_name%
-    "translation_replace": {
-      "fr_": ""
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,context,source_phrase,es-ES,fr'
