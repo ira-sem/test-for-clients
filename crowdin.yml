@@ -1,6 +1,8 @@
 files:
   - source: /*.csv
     translation: /translationfiles/%two_letters_code%_%original_file_name%
+    export_languages:                                  
+    "fr"
     "translation_replace":
       "fr_": ""
     multilingual_spreadsheet: 1
