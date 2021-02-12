@@ -1,5 +1,7 @@
+export_languages:                                   
+    "fr"
 files:
-  - source: /*.csv
+    source: /*.csv
     translation: /translationfiles/%two_letters_code%_%original_file_name%
        "translation_replace":
       "fr_": ""
