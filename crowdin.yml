@@ -4,4 +4,4 @@ files:
     "translation_replace": {
       "fr_": ""
     multilingual_spreadsheet: 1
-    scheme: 'identifier,context,source_phrase,es-ES,fr'
+    scheme: identifier,context,source_phrase,es-ES,fr
